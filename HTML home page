@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Homepage</title>
+</head>
+<body bgcolor="#F7F7DE" body alink="#FE1129">
+    <h1>◼簡單銷售系統◼</h1>
+	<img src="就是這麼簡單.jpg"></img>
+	<h2><hr color="#1C3AFF">商品索引</h2>
+	<ul>
+	    <li><a href="https://www.books.com.tw/web/food_topm_36?loc=P_0553_1_001">休閑零食</a></li>
+		<li><a href="https://www.books.com.tw/web/food_topm_10?loc=P_0553_1_006">蔬果/冷凍肉品</a></li>
+		<li><a href="https://www.books.com.tw/web/food_topm_05?loc=P_0553_1_007">熟食料理/調理包</a></li>
+		<li><a href="https://www.books.com.tw/web/food_topm_26?loc=P_0553_1_005">甜點/蛋糕</a></li>
+	
+	</ul>
+	<hr color="#1C3AFF">
+	<a href="結賬頁面.html"target=_blank>
+	<h2><center><font color="#ff0000">結賬</font></center></h2>
+</body>
+</html>
