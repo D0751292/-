@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>結賬頁面</title>
+</head>
+<body bgcolor="#F7F7DE">
+<center>
+<table border="1" cellpadding="6" bgcolor=#FFFFFF>
+	    <tr bgcolor=#DB989F>
+		    <td width=100><h3><center>商品名稱</center></h3></td>
+			<td width=100><h3><center>商品數量</center></h3></td>
+			<td width=100><h3><center>商品單個價格</center></h3></td>
+			<td width=100><h3><center>商品總價格</center></h3></td>
+			<td width=100><h3><center>合計</center></h3></td>
+		
+		</tr>
+		<tr height=60>
+		    <td bgcolor=#E0C0E7><center>休閑零食</center></td>
+			<td><center>
+			    <select SIZE="1">
+				<option value="0">0
+				<option value="1">1
+				<option value="2">2
+				<option value="3">3
+				<option value="4">4
+				<option value="5">5
+				<option value="6">6
+				<option value="7">7
+				<option value="8">8
+				<option value="9">9
+				<option value="10">10
+				</select>
+				
+			    </center></td>
+			<td><center>30</center></td>
+			<td><center></center></td>
+			<td rowspan=4></td>
+		
+		</tr>
+		<tr height=60>
+		    <td bgcolor=#E0C0E7><center>蔬果/冷凍肉品</center></td>
+			<td><center>
+			    <select SIZE="1">
+				<option value="0">0
+				<option value="1">1
+				<option value="2">2
+				<option value="3">3
+				<option value="4">4
+				<option value="5">5
+				<option value="6">6
+				<option value="7">7
+				<option value="8">8
+				<option value="9">9
+				<option value="10">10
+				</select>
+				</center></td>
+			<td><center>40</center></td>
+			<td><center></center></td>
+			
+		</tr>
+		<tr height=60>
+		    <td bgcolor=#E0C0E7><center>熟食料理/調理</center></td>
+			<td><center>
+			    <select SIZE="1">
+				<option value="0">0
+				<option value="1">1
+				<option value="2">2
+				<option value="3">3
+				<option value="4">4
+				<option value="5">5
+				<option value="6">6
+				<option value="7">7
+				<option value="8">8
+				<option value="9">9
+				<option value="10">10
+				</select>
+				</center></td>
+			<td><center>20</center></td>
+			<td><center></center></td>
+			
+		</tr>
+		<tr height=60>
+		    <td bgcolor=#E0C0E7><center>甜點/蛋糕</center></td>
+			<td><center>
+			    <select SIZE="1">
+				<option value="0">0
+				<option value="1">1
+				<option value="2">2
+				<option value="3">3
+				<option value="4">4
+				<option value="5">5
+				<option value="6">6
+				<option value="7">7
+				<option value="8">8
+				<option value="9">9
+				<option value="10">10
+				</select>
+				</center></td>
+			<td><center>10</center></td>
+			<td><center></center></td>
+			
+		</tr>
+	
+	
+	
+	
+</table>
+</center>
+<br>
+<center><font color="#0080ff"><font face="新細明體"><font size=5>
+商品出貨約爲三至五個工作天，若遲遲未收到商品請撥打免付費客服:0800-092-000
+<hr color="#ff8000"></font></font></font>
+</body>
+
+
+
+
+
+</html>
